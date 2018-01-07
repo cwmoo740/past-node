@@ -1,0 +1,8 @@
+{
+  "name": "past",
+  "version": "0.0.1",
+  "description": "nodejs implementation of platform agnostic security tokens",
+  "repository": "https://github.com/cwmoo740/past-node",
+  "author": "cwmoo740",
+  "license": "MIT"
+}
